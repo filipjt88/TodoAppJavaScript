@@ -46,6 +46,8 @@ li button {
 
 .clear-items {
     text-align: center;
+    visibility: hidden;
+    transition: all .5s ease;
 }
 
 .clear-items-show {
